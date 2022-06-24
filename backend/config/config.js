@@ -3,7 +3,6 @@ require("dotenv").config();
 module.exports = {
   'config': path.resolve('config', 'config.js')
 }
-
 const fs = require("fs");
 
 module.exports = {
